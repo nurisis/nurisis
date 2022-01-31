@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![nurisis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurisis&show_icons=true&theme=cobalt)
+
 <!--
 **nurisis/nurisis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
